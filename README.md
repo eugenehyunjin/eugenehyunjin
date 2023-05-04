@@ -4,14 +4,14 @@
 * 📫 If you would like to be friends with me, please feel free to contact me via email : eugenehyunjin@gmail.com
 * 🤞 I can speak Korean, English and Chinese.
 
-<img style="display:inline" src="https://img.shields.io/badge/javascript-000?style=plastic&logo=javascript&logoColor=fff"/>
-<img style="display:inline" src="https://img.shields.io/badge/PHP-66B2FF?style=plastic&logo=php&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Javascript-000?style=plastic&logo=javascript&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PHP-66B2FF?style=plastic&logo=php&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Laravel-ff3333?style=plastic&logo=laravel&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Notion-000?style=plastic&logo=notion&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Java-ffff33?style=plastic&logo=java&logoColor=fff"/>
-<img src="https://img.shields.io/badge/html5-3399ff?style=plastic&logo=html5&logoColor=fff"/>
-<img src="https://img.shields.io/badge/css3-ff8000?style=plastic&logo=css3&logoColor=fff"/>
-<img src="https://img.shields.io/badge/spring-00cc00?style=plastic&logo=spring&logoColor=fff"/>
+<img src="https://img.shields.io/badge/HTML5-3399ff?style=plastic&logo=html5&logoColor=fff"/>
+<img src="https://img.shields.io/badge/CSS3-ff8000?style=plastic&logo=css3&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Spring-00cc00?style=plastic&logo=spring&logoColor=fff"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&show_icons=true&theme=react)
 
