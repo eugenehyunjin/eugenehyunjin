@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/NotionForEugene-000?style=flat-square&logo=notion&logoColor=fff"/>
 <img src="https://img.shields.io/badge/NotionForEugene-000?style=flat-square&logo=notion&logoColor=fff"/>
-<img src="https://img.shields.io/badge/NotionForEugene-000?style=flat-square&logo=notion&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=fff"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&show_icons=true&theme=react)
