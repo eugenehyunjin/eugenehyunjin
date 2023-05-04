@@ -5,7 +5,7 @@
 
 <a href="https://eugene-hyunjin.notion.site/Web-Developer-Eugene-s-Life-cf9b18cc8ae544f196d694a2541738b9" target="_blank"><img src="https://img.shields.io/badge/NotionForEugene-000?style=flat-square&logo=notion&logoColor=fff"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&show_icons=true&theme=react)
 <!--
 **eugenehyunjin/eugenehyunjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
