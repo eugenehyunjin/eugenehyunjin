@@ -4,14 +4,14 @@
 * 📫 If you would like to be friends with me, please feel free to contact me via email : eugenehyunjin@gmail.com
 * 🤞 I can speak Korean, English and Chinese.
 
-<img src="https://img.shields.io/badge/javascript-000?style=flat-square&logo=javascript&logoColor=fff"/>
-<img src="https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=fff"/>
+<img src="https://img.shields.io/badge/javascript-FFB266?style=flat-square&logo=javascript&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PHP-66B2FF?style=flat-square&logo=php&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Laravel-ff3333?style=flat-square&logo=laravel&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=fff"/>
-<img src="https://img.shields.io/badge/java-000?style=flat-square&logo=java&logoColor=fff"/>
-<img src="https://img.shields.io/badge/html5-000?style=flat-square&logo=html5&logoColor=fff"/>
-<img src="https://img.shields.io/badge/css3-000?style=flat-square&logo=css3&logoColor=fff"/>
-<img src="https://img.shields.io/badge/spring-000?style=flat-square&logo=spring&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Java-ffff33?style=flat-square&logo=java&logoColor=fff"/>
+<img src="https://img.shields.io/badge/html5-3399ff?style=flat-square&logo=html5&logoColor=fff"/>
+<img src="https://img.shields.io/badge/css3-ff8000?style=flat-square&logo=css3&logoColor=fff"/>
+<img src="https://img.shields.io/badge/spring-00cc00?style=flat-square&logo=spring&logoColor=fff"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&show_icons=true&theme=react)
 
