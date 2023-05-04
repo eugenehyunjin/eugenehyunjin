@@ -10,11 +10,12 @@
 <span><img src="https://img.shields.io/badge/Javascript-000?style=plastic&logo=javascript&logoColor=fff"/></span>
 <img src="https://img.shields.io/badge/PHP-66B2FF?style=plastic&logo=php&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Laravel-ff3333?style=plastic&logo=laravel&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Notion-000?style=plastic&logo=notion&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Java-404040?style=plastic&logo=java&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Spring-00cc00?style=plastic&logo=spring&logoColor=fff"/>
 <img src="https://img.shields.io/badge/HTML5-3399ff?style=plastic&logo=html5&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CSS3-ff8000?style=plastic&logo=css3&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Spring-00cc00?style=plastic&logo=spring&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Notion-000?style=plastic&logo=notion&logoColor=fff"/>
+
 
 <!-- <a href="https://eugene-hyunjin.notion.site/Web-Developer-Eugene-s-Life-cf9b18cc8ae544f196d694a2541738b9" target="_blank"><img src="https://img.shields.io/badge/NotionForEugene-000?style=flat-square&logo=notion&logoColor=fff"/></a>
 -->
