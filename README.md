@@ -4,8 +4,8 @@
 * 📫 If you would like to be friends with me, please feel free to contact me via email : eugenehyunjin@gmail.com
 * 🤞 I can speak Korean, English and Chinese.
 
-<img style="display:inline" src="https://img.shields.io/badge/javascript-FFB266?style=plastic&logo=javascript&logoColor=fff"/>
-<img src="https://img.shields.io/badge/PHP-66B2FF?style=plastic&logo=php&logoColor=fff"/>
+<img style="display:inline" src="https://img.shields.io/badge/javascript-000?style=plastic&logo=javascript&logoColor=fff"/>
+<img style="display:inline" src="https://img.shields.io/badge/PHP-66B2FF?style=plastic&logo=php&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Laravel-ff3333?style=plastic&logo=laravel&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Notion-000?style=plastic&logo=notion&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Java-ffff33?style=plastic&logo=java&logoColor=fff"/>
