@@ -1,4 +1,4 @@
-### Hellp! I'm Eugene 🥰 
+### Hello! I'm Eugene 🥰 
 
 * 😍 I am a web developer who loves sports.🚴 I want to develop novel ideas and creativity.
 * 📫 If you would like to be friends with me, please feel free to contact me via email : eugenehyunjin@gmail.com
