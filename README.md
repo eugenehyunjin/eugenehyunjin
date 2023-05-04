@@ -4,9 +4,11 @@
 * 📫 If you would like to be friends with me, please feel free to contact me via email : eugenehyunjin@gmail.com
 * 🤞 I can speak Korean, English and Chinese.
 
-<img src="https://img.shields.io/badge/NotionForEugene-000?style=flat-square&logo=notion&logoColor=fff"/>
-<img src="https://img.shields.io/badge/NotionForEugene-000?style=flat-square&logo=notion&logoColor=fff"/>
+<img src="https://img.shields.io/badge/javascript-000?style=flat-square&logo=javascript&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=fff"/>
+<img src="https://img.shields.io/badge/java-000?style=flat-square&logo=java&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=fff"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&show_icons=true&theme=react)
