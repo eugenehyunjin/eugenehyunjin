@@ -5,7 +5,7 @@
 * 🤞 I can speak Korean, English and Chinese.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&count_private=true&show_icons=true&theme=vue)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eugenehyunjin)](https://github.com/eugenehyunjin/github-contribution-stats/)
 
 <span><img src="https://img.shields.io/badge/Javascript-000?style=plastic&logo=javascript&logoColor=fff"/></span>
 <img src="https://img.shields.io/badge/PHP-66B2FF?style=plastic&logo=php&logoColor=fff"/>
