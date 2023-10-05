@@ -4,7 +4,7 @@
 * 📫 If you would like to be friends with me, please feel free to contact me via email : eugenehyunjin@gmail.com
 * 🤞 I can speak Korean, English and Chinese.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&theme=vue&count_private=true)](https://github.com/eugenehyunjin/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&theme=vue&count_private=true&show_icons=true)](https://github.com/eugenehyunjin/github-readme-stats)<br>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eugenehyunjin)](https://github.com/eugenehyunjin/github-contribution-stats/)
 
 <span><img src="https://img.shields.io/badge/Javascript-000?style=plastic&logo=javascript&logoColor=fff"/></span>
