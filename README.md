@@ -6,6 +6,7 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eugenehyunjin)](https://github.com/eugenehyunjin/github-contribution-stats/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenehyunjin&theme=vue&count_private=true&show_icons=true&hide=contribs,prs)](https://github.com/eugenehyunjin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenehyunjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <span><img src="https://img.shields.io/badge/Javascript-000?style=plastic&logo=javascript&logoColor=fff"/></span>
 <img src="https://img.shields.io/badge/PHP-66B2FF?style=plastic&logo=php&logoColor=fff"/>
